@@ -2,8 +2,8 @@
 
 A Tuist implementation example for Medium article:
 
-* [castellano](https://medium.com/@daviddvd19/ccbeb3cba008)
-* [english]()
+* [castellano](https://medium.com/@daviddvd19/tuist-mejorando-tus-flujos-de-trabajo-en-swift-es-ccbeb3cba008)
+* [english](https://medium.com/@daviddvd19/tuist-improving-your-swift-workflows-en-e7195250e948)
 
 # How To Install Tuist
 
